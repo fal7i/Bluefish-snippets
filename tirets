@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<snippets>
+<branch title="Tirets">
+<leaf title="-" tooltip="U+002D Trait d'union-signe moins" type="insert"><before>-</before><after/></leaf>
+<leaf title="‐" tooltip="U+2010 Trait d'union" type="insert"><before>‐</before><after/></leaf>
+<leaf title="‑" tooltip="U+2011 Trait d'union insécable" type="insert"><before>‑</before><after/></leaf>
+<leaf title="‒" tooltip="U+2012 Tiret numérique" type="insert"><before>‒</before><after/></leaf>
+<leaf title="–" tooltip="U+2013 Tiret demi-CADRATIN" type="insert"><before>–</before><after/></leaf>
+<leaf title="—" tooltip="U+2014 Tiret cadratin" type="insert"><before>—</before><after/></leaf>
+<leaf title="―" tooltip="U+2015 Barre horizontale" type="insert"><before>―</before><after/></leaf>
+<leaf title="⸺" tooltip="U+2E3A Tiret double cadratin" type="insert"><before>⸺</before><after/></leaf>
+<leaf title="⸻" tooltip="U+2E3B Tiret triple cadratin" type="insert"><before>⸻</before><after/></leaf>
+<leaf title="﹘" tooltip="U+FE58 Tiret cadratin minuscule" type="insert"><before>﹘</before><after/></leaf>
+<leaf title="﹣" tooltip="U+FE63 Tiret minuscule" type="insert"><before>﹣</before><after/></leaf>
+<leaf title="－" tooltip="U+FF0D Tiret pleine chasse" type="insert"><before>－</before><after/></leaf>
+<leaf title="⹀" tooltip="U+2E40 Trait d'union double" type="insert"><before>⹀</before><after/></leaf>
+<leaf title="⸗" tooltip="U+2E17 Trait d'union double oblique" type="insert"><before>⸗</before><after/></leaf>
+<leaf title="⸚" tooltip="U+2E1A Trait d'union À tréma" type="insert"><before>⸚</before><after/></leaf>
+<leaf title="〜" tooltip="U+301C Tiret en esse" type="insert"><before>〜</before><after/></leaf>
+<leaf title="〰" tooltip="U+3030 Tiret ondulé" type="insert"><before>〰</before><after/></leaf>
+<leaf title="֊" tooltip="U+058A Trait d'union arménien" type="insert"><before>֊</before><after/></leaf>
+<leaf title="־" tooltip="U+05BE Ponctuation hébraïque maqaf" type="insert"><before>־</before><after/></leaf>
+<leaf title="᐀" tooltip="U+1400 Trait d'union syllabe canadienne" type="insert"><before>᐀</before><after/></leaf>
+<leaf title="᠆" tooltip="U+1806 Trait d'union conditionnel mongol todo" type="insert"><before>᠆</before><after/></leaf>
+<leaf title="゠" tooltip="U+30A0 Double trait katakana-hiragana" type="insert"><before>゠</before><after/></leaf>
+<leaf title="︱" tooltip="U+FE31 Forme de présentation de tiret cadratin vertical" type="insert"><before>︱</before><after/></leaf>
+<leaf title="︲" tooltip="U+FE32 Forme de présentation de tiret demi-CADRATIN vertical" type="insert"><before>︲</before><after/></leaf>
+</branch>
+</snippets>
