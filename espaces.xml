@@ -1,24 +1,23 @@
 <?xml version="1.0"?>
 <snippets>
 <branch title="Espaces">
-<leaf title="Espace (SP)" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace insécable (NBSP)" type="insert"><before>፡</before><after/></leaf>
-<leaf title="Espace éthiopienne" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace d'ogam" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace demi-CADRATIN" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace cadratin" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace tiers de cadratin" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace quart de cadratin" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace sixième de cadratin" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace tabulaire" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace ponctuation" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace fine" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace ultrafine" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace sans chasse (ZWSP)" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace insécable étroite (NNBSP)" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace moyenne mathématique (MMSP)" type="insert"><before>␈</before><after/></leaf>
-<leaf title="Symbole pour espace arrière" type="insert"><before>␠</before><after/></leaf>
-<leaf title="Symbole pour espace" type="insert"><before>␢</before><after/></leaf>
-<leaf title="Symbole visuel pour l'espace" type="insert"><before>　</before><after/></leaf>
+<leaf type="insert" title="Espace (SP)"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace insécable (NBSP)"><before>፡</before><after/></leaf>
+<leaf type="insert" title="Demi-Cadratin" tooltip="U+2000"><before> </before><after/></leaf>
+<leaf type="insert" title="Cadratin" tooltip="U+2001"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace demi-CADRATIN" tooltip="U+2002"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace cadratin" tooltip="U+2003"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace tiers de cadratin" tooltip="U+2004"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace quart de cadratin" tooltip="U+2005"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace sixième de cadratin" tooltip="U+2006"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace tabulaire" tooltip="U+2007"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace ponctuation" tooltip="U+2008"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace fine" tooltip="U+2009"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace ultrafine" tooltip="U+200A"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace insécable étroite (NNBSP)" tooltip="U+202F"><before> </before><after/></leaf>
+<leaf type="insert" title="Espace moyenne mathématique (MMSP)" tooltip="U+205F"><before> </before><after/></leaf>
+<leaf type="insert" title="Symbole pour espace" tooltip="U+2422"><before>␢</before><after/></leaf>
+<leaf type="insert" title="␣ Boîte ouverte" tooltip="U+2423"><before>␣</before><after/></leaf>
+<leaf type="insert" title="␤ Symbole de nouvelle ligne" tooltip="U+2424"><before>␤</before><after/></leaf>
 </branch>
 </snippets>
