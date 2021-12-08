@@ -13,7 +13,7 @@
 <leaf title="Espace tabulaire" type="insert"><before> </before><after/></leaf>
 <leaf title="Espace ponctuation" type="insert"><before> </before><after/></leaf>
 <leaf title="Espace fine" type="insert"><before> </before><after/></leaf>
-<leaf title="Espace ultrafine" type="insert"><before></before><after/></leaf>
+<leaf title="Espace ultrafine" type="insert"><before> </before><after/></leaf>
 <leaf title="Espace sans chasse (ZWSP)" type="insert"><before> </before><after/></leaf>
 <leaf title="Espace insécable étroite (NNBSP)" type="insert"><before> </before><after/></leaf>
 <leaf title="Espace moyenne mathématique (MMSP)" type="insert"><before>␈</before><after/></leaf>
