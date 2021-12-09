@@ -1,26 +1,30 @@
-    accesskey
-    autocapitalize
-    autofocus
-    contenteditable
-    dir
-    draggable
-    enterkeyhint
-    hidden
-    inputmode
-    is
-    itemid
-    itemprop
-    itemref
-    itemscope
-    itemtype
-    lang
-    nonce
-    spellcheck
-    style
-    tabindex
-    title
-    translate
-
-    class
-    id
-    slot
+<?xml version="1.0"?>
+<snippets>
+<branch title="Global Attributes">
+<leaf title="accesskey" type="insert"><before>accesskey="</before><after>" </after></leaf>
+<leaf title="autocapitalize" type="insert"><before>autocapitalize="</before><after>" </after></leaf>
+<leaf title="autofocus" type="insert"><before>autofocus="</before><after>" </after></leaf>
+<leaf title="class" type="insert"><before>class="</before><after>" </after></leaf>
+<leaf title="contenteditable" type="insert"><before>contenteditable="</before><after>" </after></leaf>
+<leaf title="dir" type="insert"><before>dir="</before><after>" </after></leaf>
+<leaf title="draggable" type="insert"><before>draggable="</before><after>" </after></leaf>
+<leaf title="enterkeyhint" type="insert"><before>enterkeyhint="</before><after>" </after></leaf>
+<leaf title="hidden" type="insert"><before>hidden </before></after></leaf>
+<leaf title="id" type="insert"><before>id="</before><after>" </after></leaf>
+<leaf title="inputmode" type="insert"><before>inputmode="</before><after>" </after></leaf>
+<leaf title="is" type="insert"><before>is="</before><after>" </after></leaf>
+<leaf title="itemid" type="insert"><before>itemid="</before><after>" </after></leaf>
+<leaf title="itemprop" type="insert"><before>itemprop="</before><after>" </after></leaf>
+<leaf title="itemref" type="insert"><before>itemref="</before><after>" </after></leaf>
+<leaf title="itemscope" type="insert"><before>itemscope="</before><after>" </after></leaf>
+<leaf title="itemtype" type="insert"><before>itemtype="</before><after>" </after></leaf>
+<leaf title="lang" type="insert"><before>lang="</before><after>" </after></leaf>
+<leaf title="nonce" type="insert"><before>nonce="</before><after>" </after></leaf>
+<leaf title="slot" type="insert"><before>slot="</before><after>" </after></leaf>
+<leaf title="spellcheck" type="insert"><before>spellcheck="</before><after>" </after></leaf>
+<leaf title="style" type="insert"><before>style="</before><after>" </after></leaf>
+<leaf title="tabindex" type="insert"><before>tabindex="</before><after>" </after></leaf>
+<leaf title="title" type="insert"><before>title="</before><after>" </after></leaf>
+<leaf title="translate" type="insert"><before>translate="</before><after>" </after></leaf>
+</branch>
+</snippets>
