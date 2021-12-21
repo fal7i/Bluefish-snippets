@@ -1,139 +1,139 @@
 <?xml version="1.0"?>
 <snippets>
-<branch title="html">
-<branch title="The document element">
-<leaf type="insert" title="html" tooltip="¤"><before>&lt;html&gt;</before><after>&lt;/html&gt;</after></leaf>
-</branch>
-<branch title="Document metadata">
-<leaf type="insert" title="head" tooltip="¤"><before>&lt;head&gt;</before><after>&lt;/head&gt;</after></leaf>
-<leaf type="insert" title="title" tooltip="¤"><before>&lt;title&gt;</before><after>&lt;/title&gt;</after></leaf>
-<leaf type="insert" title="base" tooltip="¤"><before>&lt;base&gt;</before><after>&lt;/base&gt;</after></leaf>
-<leaf type="insert" title="link" tooltip="¤"><before>&lt;link&gt;</before><after>&lt;/link&gt;</after></leaf>
-<leaf type="insert" title="meta" tooltip="¤"><before>&lt;meta&gt;</before><after>&lt;/meta&gt;</after></leaf>
-<leaf type="insert" title="style" tooltip="¤"><before>&lt;style&gt;</before><after>&lt;/style&gt;</after></leaf>
-</branch>
-<branch title="Sections">
-<leaf type="insert" title="body" tooltip="¤"><before>&lt;body&gt;</before><after>&lt;/body&gt;</after></leaf>
-<leaf type="insert" title="article" tooltip="¤"><before>&lt;article&gt;</before><after>&lt;/article&gt;</after></leaf>
-<leaf type="insert" title="section" tooltip="¤"><before>&lt;section&gt;</before><after>&lt;/section&gt;</after></leaf>
-<leaf type="insert" title="nav" tooltip="¤"><before>&lt;nav&gt;</before><after>&lt;/nav&gt;</after></leaf>
-<leaf type="insert" title="aside" tooltip="¤"><before>&lt;aside&gt;</before><after>&lt;/aside&gt;</after></leaf>
-<leaf type="insert" title="h1" tooltip="¤"><before>&lt;h1&gt;</before><after>&lt;/h1&gt;</after></leaf>
-<leaf type="insert" title="h2" tooltip="¤"><before>&lt;h2&gt;</before><after>&lt;/h2&gt;</after></leaf>
-<leaf type="insert" title="h3" tooltip="¤"><before>&lt;h3&gt;</before><after>&lt;/h3&gt;</after></leaf>
-<leaf type="insert" title="h4" tooltip="¤"><before>&lt;h4&gt;</before><after>&lt;/h4&gt;</after></leaf>
-<leaf type="insert" title="h5" tooltip="¤"><before>&lt;h5&gt;</before><after>&lt;/h5&gt;</after></leaf>
-<leaf type="insert" title="h6" tooltip="¤"><before>&lt;h6&gt;</before><after>&lt;/h6&gt;</after></leaf>
-<leaf type="insert" title="hgroup" tooltip="¤"><before>&lt;hgroup&gt;</before><after>&lt;/hgroup&gt;</after></leaf>
-<leaf type="insert" title="header" tooltip="¤"><before>&lt;header&gt;</before><after>&lt;/header&gt;</after></leaf>
-<leaf type="insert" title="footer" tooltip="¤"><before>&lt;footer&gt;</before><after>&lt;/footer&gt;</after></leaf>
-<leaf type="insert" title="address" tooltip="¤"><before>&lt;address&gt;</before><after>&lt;/address&gt;</after></leaf>
-</branch>
-<branch title="Grouping content">
-<leaf type="insert" title="p" tooltip="¤"><before>&lt;p&gt;</before><after>&lt;/p&gt;</after></leaf>
-<leaf type="insert" title="hr" tooltip="¤"><before>&lt;hr&gt;</before><after>&lt;/hr&gt;</after></leaf>
-<leaf type="insert" title="pre" tooltip="¤"><before>&lt;pre&gt;</before><after>&lt;/pre&gt;</after></leaf>
-<leaf type="insert" title="blockquote" tooltip="¤"><before>&lt;blockquote&gt;</before><after>&lt;/blockquote&gt;</after></leaf>
-<leaf type="insert" title="ol" tooltip="¤"><before>&lt;ol&gt;</before><after>&lt;/ol&gt;</after></leaf>
-<leaf type="insert" title="ul" tooltip="¤"><before>&lt;ul&gt;</before><after>&lt;/ul&gt;</after></leaf>
-<leaf type="insert" title="menu" tooltip="¤"><before>&lt;menu&gt;</before><after>&lt;/menu&gt;</after></leaf>
-<leaf type="insert" title="li" tooltip="¤"><before>&lt;li&gt;</before><after>&lt;/li&gt;</after></leaf>
-<leaf type="insert" title="dl" tooltip="¤"><before>&lt;dl&gt;</before><after>&lt;/dl&gt;</after></leaf>
-<leaf type="insert" title="dt" tooltip="¤"><before>&lt;dt&gt;</before><after>&lt;/dt&gt;</after></leaf>
-<leaf type="insert" title="dd" tooltip="¤"><before>&lt;dd&gt;</before><after>&lt;/dd&gt;</after></leaf>
-<leaf type="insert" title="figure" tooltip="¤"><before>&lt;figure&gt;</before><after>&lt;/figure&gt;</after></leaf>
-<leaf type="insert" title="figcaption" tooltip="¤"><before>&lt;figcaption&gt;</before><after>&lt;/figcaption&gt;</after></leaf>
-<leaf type="insert" title="main" tooltip="¤"><before>&lt;main&gt;</before><after>&lt;/main&gt;</after></leaf>
-<leaf type="insert" title="div" tooltip="¤"><before>&lt;div&gt;</before><after>&lt;/div&gt;</after></leaf>
-</branch>
-<branch title="Text-level semantics">
-<leaf type="insert" title="a" tooltip="¤"><before>&lt;a&gt;</before><after>&lt;/a&gt;</after></leaf>
-<leaf type="insert" title="em" tooltip="¤"><before>&lt;em&gt;</before><after>&lt;/em&gt;</after></leaf>
-<leaf type="insert" title="strong" tooltip="¤"><before>&lt;strong&gt;</before><after>&lt;/strong&gt;</after></leaf>
-<leaf type="insert" title="small" tooltip="¤"><before>&lt;small&gt;</before><after>&lt;/small&gt;</after></leaf>
-<leaf type="insert" title="s" tooltip="¤"><before>&lt;s&gt;</before><after>&lt;/s&gt;</after></leaf>
-<leaf type="insert" title="cite" tooltip="¤"><before>&lt;cite&gt;</before><after>&lt;/cite&gt;</after></leaf>
-<leaf type="insert" title="q" tooltip="¤"><before>&lt;q&gt;</before><after>&lt;/q&gt;</after></leaf>
-<leaf type="insert" title="dfn" tooltip="¤"><before>&lt;dfn&gt;</before><after>&lt;/dfn&gt;</after></leaf>
-<leaf type="insert" title="abbr" tooltip="¤"><before>&lt;abbr&gt;</before><after>&lt;/abbr&gt;</after></leaf>
-<leaf type="insert" title="ruby" tooltip="¤"><before>&lt;ruby&gt;</before><after>&lt;/ruby&gt;</after></leaf>
-<leaf type="insert" title="rt" tooltip="¤"><before>&lt;rt&gt;</before><after>&lt;/rt&gt;</after></leaf>
-<leaf type="insert" title="rp" tooltip="¤"><before>&lt;rp&gt;</before><after>&lt;/rp&gt;</after></leaf>
-<leaf type="insert" title="data" tooltip="¤"><before>&lt;data&gt;</before><after>&lt;/data&gt;</after></leaf>
-<leaf type="insert" title="time" tooltip="¤"><before>&lt;time&gt;</before><after>&lt;/time&gt;</after></leaf>
-<leaf type="insert" title="code" tooltip="¤"><before>&lt;code&gt;</before><after>&lt;/code&gt;</after></leaf>
-<leaf type="insert" title="var" tooltip="¤"><before>&lt;var&gt;</before><after>&lt;/var&gt;</after></leaf>
-<leaf type="insert" title="samp" tooltip="¤"><before>&lt;samp&gt;</before><after>&lt;/samp&gt;</after></leaf>
-<leaf type="insert" title="kbd" tooltip="¤"><before>&lt;kbd&gt;</before><after>&lt;/kbd&gt;</after></leaf>
-<leaf type="insert" title="sub" tooltip="¤"><before>&lt;sub&gt;</before><after>&lt;/sub&gt;</after></leaf>
-<leaf type="insert" title="sup" tooltip="¤"><before>&lt;sup&gt;</before><after>&lt;/sup&gt;</after></leaf>
-<leaf type="insert" title="i" tooltip="¤"><before>&lt;i&gt;</before><after>&lt;/i&gt;</after></leaf>
-<leaf type="insert" title="b" tooltip="¤"><before>&lt;b&gt;</before><after>&lt;/b&gt;</after></leaf>
-<leaf type="insert" title="u" tooltip="¤"><before>&lt;u&gt;</before><after>&lt;/u&gt;</after></leaf>
-<leaf type="insert" title="mark" tooltip="¤"><before>&lt;mark&gt;</before><after>&lt;/mark&gt;</after></leaf>
-<leaf type="insert" title="bdi" tooltip="¤"><before>&lt;bdi&gt;</before><after>&lt;/bdi&gt;</after></leaf>
-<leaf type="insert" title="bdo" tooltip="¤"><before>&lt;bdo&gt;</before><after>&lt;/bdo&gt;</after></leaf>
-<leaf type="insert" title="span" tooltip="¤"><before>&lt;span&gt;</before><after>&lt;/span&gt;</after></leaf>
-<leaf type="insert" title="br" tooltip="¤"><before>&lt;br&gt;</before><after>&lt;/br&gt;</after></leaf>
-<leaf type="insert" title="wbr" tooltip="¤"><before>&lt;wbr&gt;</before><after>&lt;/wbr&gt;</after></leaf>
-</branch>
-<branch title="Edits">
-<leaf type="insert" title="ins" tooltip="¤"><before>&lt;ins&gt;</before><after>&lt;/ins&gt;</after></leaf>
-<leaf type="insert" title="del" tooltip="¤"><before>&lt;del&gt;</before><after>&lt;/del&gt;</after></leaf>
-</branch>
-<branch title="Embedded content">
-<leaf type="insert" title="picture" tooltip="¤"><before>&lt;picture&gt;</before><after>&lt;/picture&gt;</after></leaf>
-<leaf type="insert" title="source" tooltip="¤"><before>&lt;source&gt;</before><after>&lt;/source&gt;</after></leaf>
-<leaf type="insert" title="img" tooltip="¤"><before>&lt;img&gt;</before><after>&lt;/img&gt;</after></leaf>
-<leaf type="insert" title="iframe" tooltip="¤"><before>&lt;iframe&gt;</before><after>&lt;/iframe&gt;</after></leaf>
-<leaf type="insert" title="embed" tooltip="¤"><before>&lt;embed&gt;</before><after>&lt;/embed&gt;</after></leaf>
-<leaf type="insert" title="object" tooltip="¤"><before>&lt;object&gt;</before><after>&lt;/object&gt;</after></leaf>
-<leaf type="insert" title="param" tooltip="¤"><before>&lt;param&gt;</before><after>&lt;/param&gt;</after></leaf>
-<leaf type="insert" title="video" tooltip="¤"><before>&lt;video&gt;</before><after>&lt;/video&gt;</after></leaf>
-<leaf type="insert" title="audio" tooltip="¤"><before>&lt;audio&gt;</before><after>&lt;/audio&gt;</after></leaf>
-<leaf type="insert" title="track" tooltip="¤"><before>&lt;track&gt;</before><after>&lt;/track&gt;</after></leaf>
-<leaf type="insert" title="map" tooltip="¤"><before>&lt;map&gt;</before><after>&lt;/map&gt;</after></leaf>
-<leaf type="insert" title="area" tooltip="¤"><before>&lt;area&gt;</before><after>&lt;/area&gt;</after></leaf>
-</branch>
-<branch title="Tabular data">
-<leaf type="insert" title="table" tooltip="¤"><before>&lt;table&gt;</before><after>&lt;/table&gt;</after></leaf>
-<leaf type="insert" title="caption" tooltip="¤"><before>&lt;caption&gt;</before><after>&lt;/caption&gt;</after></leaf>
-<leaf type="insert" title="colgroup" tooltip="¤"><before>&lt;colgroup&gt;</before><after>&lt;/colgroup&gt;</after></leaf>
-<leaf type="insert" title="col" tooltip="¤"><before>&lt;col&gt;</before><after>&lt;/col&gt;</after></leaf>
-<leaf type="insert" title="tbody" tooltip="¤"><before>&lt;tbody&gt;</before><after>&lt;/tbody&gt;</after></leaf>
-<leaf type="insert" title="thead" tooltip="¤"><before>&lt;thead&gt;</before><after>&lt;/thead&gt;</after></leaf>
-<leaf type="insert" title="tfoot" tooltip="¤"><before>&lt;tfoot&gt;</before><after>&lt;/tfoot&gt;</after></leaf>
-<leaf type="insert" title="tr" tooltip="¤"><before>&lt;tr&gt;</before><after>&lt;/tr&gt;</after></leaf>
-<leaf type="insert" title="td" tooltip="¤"><before>&lt;td&gt;</before><after>&lt;/td&gt;</after></leaf>
-<leaf type="insert" title="th" tooltip="¤"><before>&lt;th&gt;</before><after>&lt;/th&gt;</after></leaf>
-</branch>
-<branch title="Forms">
-<leaf type="insert" title="form" tooltip="¤"><before>&lt;form&gt;</before><after>&lt;/form&gt;</after></leaf>
-<leaf type="insert" title="label" tooltip="¤"><before>&lt;label&gt;</before><after>&lt;/label&gt;</after></leaf>
-<leaf type="insert" title="input" tooltip="¤"><before>&lt;input&gt;</before><after>&lt;/input&gt;</after></leaf>
-<leaf type="insert" title="button" tooltip="¤"><before>&lt;button&gt;</before><after>&lt;/button&gt;</after></leaf>
-<leaf type="insert" title="select" tooltip="¤"><before>&lt;select&gt;</before><after>&lt;/select&gt;</after></leaf>
-<leaf type="insert" title="datalist" tooltip="¤"><before>&lt;datalist&gt;</before><after>&lt;/datalist&gt;</after></leaf>
-<leaf type="insert" title="optgroup" tooltip="¤"><before>&lt;optgroup&gt;</before><after>&lt;/optgroup&gt;</after></leaf>
-<leaf type="insert" title="option" tooltip="¤"><before>&lt;option&gt;</before><after>&lt;/option&gt;</after></leaf>
-<leaf type="insert" title="textarea" tooltip="¤"><before>&lt;textarea&gt;</before><after>&lt;/textarea&gt;</after></leaf>
-<leaf type="insert" title="output" tooltip="¤"><before>&lt;output&gt;</before><after>&lt;/output&gt;</after></leaf>
-<leaf type="insert" title="progress" tooltip="¤"><before>&lt;progress&gt;</before><after>&lt;/progress&gt;</after></leaf>
-<leaf type="insert" title="meter" tooltip="¤"><before>&lt;meter&gt;</before><after>&lt;/meter&gt;</after></leaf>
-<leaf type="insert" title="fieldset" tooltip="¤"><before>&lt;fieldset&gt;</before><after>&lt;/fieldset&gt;</after></leaf>
-<leaf type="insert" title="legend" tooltip="¤"><before>&lt;legend&gt;</before><after>&lt;/legend&gt;</after></leaf>
-</branch>
-<branch title="Interactive elements">
-<leaf type="insert" title="details" tooltip="¤"><before>&lt;details&gt;</before><after>&lt;/details&gt;</after></leaf>
-<leaf type="insert" title="summary" tooltip="¤"><before>&lt;summary&gt;</before><after>&lt;/summary&gt;</after></leaf>
-<leaf type="insert" title="dialog" tooltip="¤"><before>&lt;dialog&gt;</before><after>&lt;/dialog&gt;</after></leaf>
-</branch>
-<branch title="Scripting">
-<leaf type="insert" title="script" tooltip="¤"><before>&lt;script&gt;</before><after>&lt;/script&gt;</after></leaf>
-<leaf type="insert" title="noscript" tooltip="¤"><before>&lt;noscript&gt;</before><after>&lt;/noscript&gt;</after></leaf>
-<leaf type="insert" title="template" tooltip="¤"><before>&lt;template&gt;</before><after>&lt;/template&gt;</after></leaf>
-<leaf type="insert" title="slot" tooltip="¤"><before>&lt;slot&gt;</before><after>&lt;/slot&gt;</after></leaf>
-<leaf type="insert" title="canvas" tooltip="¤"><before>&lt;canvas&gt;</before><after>&lt;/canvas&gt;</after></leaf>
-</branch>
-</branch>
+	<branch title="html">
+		<branch title="The document element">
+			<leaf type="insert" title="html" tooltip="meta block"><before>&lt;html&gt;</before><after>&lt;/html&gt;</after></leaf>
+		</branch>
+		<branch title="Document metadata">
+			<leaf type="insert" title="head" tooltip="meta block"><before>&lt;head&gt;</before><after>&lt;/head&gt;</after></leaf>
+			<leaf type="insert" title="title" tooltip="meta"><before>&lt;title&gt;</before><after>&lt;/title&gt;</after></leaf>
+			<leaf type="insert" title="base" tooltip="selfclosing"><before>&lt;base&gt;</before><after>&lt;/base&gt;</after></leaf>
+			<leaf type="insert" title="link" tooltip="meta"><before>&lt;link&gt;</before><after>&lt;/link&gt;</after></leaf>
+			<leaf type="insert" title="meta" tooltip="meta"><before>&lt;meta&gt;</before><after>&lt;/meta&gt;</after></leaf>
+			<leaf type="insert" title="style" tooltip="meta"><before>&lt;style&gt;</before><after>&lt;/style&gt;</after></leaf>
+		</branch>
+		<branch title="Sections">
+			<leaf type="insert" title="body" tooltip="block"><before>&lt;body&gt;</before><after>&lt;/body&gt;</after></leaf>
+			<leaf type="insert" title="article" tooltip="block"><before>&lt;article&gt;</before><after>&lt;/article&gt;</after></leaf>
+			<leaf type="insert" title="section" tooltip="block"><before>&lt;section&gt;</before><after>&lt;/section&gt;</after></leaf>
+			<leaf type="insert" title="nav" tooltip="block"><before>&lt;nav&gt;</before><after>&lt;/nav&gt;</after></leaf>
+			<leaf type="insert" title="aside" tooltip="block"><before>&lt;aside&gt;</before><after>&lt;/aside&gt;</after></leaf>
+			<leaf type="insert" title="h1" tooltip="block"><before>&lt;h1&gt;</before><after>&lt;/h1&gt;</after></leaf>
+			<leaf type="insert" title="h2" tooltip="block"><before>&lt;h2&gt;</before><after>&lt;/h2&gt;</after></leaf>
+			<leaf type="insert" title="h3" tooltip="block"><before>&lt;h3&gt;</before><after>&lt;/h3&gt;</after></leaf>
+			<leaf type="insert" title="h4" tooltip="block"><before>&lt;h4&gt;</before><after>&lt;/h4&gt;</after></leaf>
+			<leaf type="insert" title="h5" tooltip="block"><before>&lt;h5&gt;</before><after>&lt;/h5&gt;</after></leaf>
+			<leaf type="insert" title="h6" tooltip="block"><before>&lt;h6&gt;</before><after>&lt;/h6&gt;</after></leaf>
+			<leaf type="insert" title="hgroup" tooltip="experimental block"><before>&lt;hgroup&gt;</before><after>&lt;/hgroup&gt;</after></leaf>
+			<leaf type="insert" title="header" tooltip="block"><before>&lt;header&gt;</before><after>&lt;/header&gt;</after></leaf>
+			<leaf type="insert" title="footer" tooltip="block"><before>&lt;footer&gt;</before><after>&lt;/footer&gt;</after></leaf>
+			<leaf type="insert" title="address" tooltip="block"><before>&lt;address&gt;</before><after>&lt;/address&gt;</after></leaf>
+		</branch>
+		<branch title="Grouping content">
+			<leaf type="insert" title="p" tooltip="block"><before>&lt;p&gt;</before><after>&lt;/p&gt;</after></leaf>
+			<leaf type="insert" title="hr" tooltip="selfclosing"><before>&lt;hr&gt;</before><after>&lt;/hr&gt;</after></leaf>
+			<leaf type="insert" title="pre" tooltip="block"><before>&lt;pre&gt;</before><after>&lt;/pre&gt;</after></leaf>
+			<leaf type="insert" title="blockquote" tooltip="block"><before>&lt;blockquote&gt;</before><after>&lt;/blockquote&gt;</after></leaf>
+			<leaf type="insert" title="ol" tooltip="block"><before>&lt;ol&gt;</before><after>&lt;/ol&gt;</after></leaf>
+			<leaf type="insert" title="ul" tooltip="block"><before>&lt;ul&gt;</before><after>&lt;/ul&gt;</after></leaf>
+		menu
+			<leaf type="insert" title="li" tooltip="finder-item"><before>&lt;li&gt;</before><after>&lt;/li&gt;</after></leaf>
+			<leaf type="insert" title="dl" tooltip="block"><before>&lt;dl&gt;</before><after>&lt;/dl&gt;</after></leaf>
+			<leaf type="insert" title="dt" tooltip="finder-item"><before>&lt;dt&gt;</before><after>&lt;/dt&gt;</after></leaf>
+			<leaf type="insert" title="dd" tooltip="inline"><before>&lt;dd&gt;</before><after>&lt;/dd&gt;</after></leaf>
+			<leaf type="insert" title="figure" tooltip="block"><before>&lt;figure&gt;</before><after>&lt;/figure&gt;</after></leaf>
+			<leaf type="insert" title="figcaption" tooltip="block"><before>&lt;figcaption&gt;</before><after>&lt;/figcaption&gt;</after></leaf>
+			<leaf type="insert" title="main" tooltip="block"><before>&lt;main&gt;</before><after>&lt;/main&gt;</after></leaf>
+			<leaf type="insert" title="div" tooltip="block"><before>&lt;div&gt;</before><after>&lt;/div&gt;</after></leaf>
+		</branch>
+		<branch title="Text-level semantics">
+			<leaf type="insert" title="a" tooltip="inline"><before>&lt;a&gt;</before><after>&lt;/a&gt;</after></leaf>
+			<leaf type="insert" title="em" tooltip="inline"><before>&lt;em&gt;</before><after>&lt;/em&gt;</after></leaf>
+			<leaf type="insert" title="strong" tooltip="inline"><before>&lt;strong&gt;</before><after>&lt;/strong&gt;</after></leaf>
+			<leaf type="insert" title="small" tooltip="inline"><before>&lt;small&gt;</before><after>&lt;/small&gt;</after></leaf>
+			<leaf type="insert" title="s" tooltip="inline"><before>&lt;s&gt;</before><after>&lt;/s&gt;</after></leaf>
+			<leaf type="insert" title="cite" tooltip="inline"><before>&lt;cite&gt;</before><after>&lt;/cite&gt;</after></leaf>
+			<leaf type="insert" title="q" tooltip="inline"><before>&lt;q&gt;</before><after>&lt;/q&gt;</after></leaf>
+			<leaf type="insert" title="dfn" tooltip="inline"><before>&lt;dfn&gt;</before><after>&lt;/dfn&gt;</after></leaf>
+			<leaf type="insert" title="abbr" tooltip="inline"><before>&lt;abbr&gt;</before><after>&lt;/abbr&gt;</after></leaf>
+			<leaf type="insert" title="ruby" tooltip="block"><before>&lt;ruby&gt;</before><after>&lt;/ruby&gt;</after></leaf>
+			<leaf type="insert" title="rt" tooltip="inline"><before>&lt;rt&gt;</before><after>&lt;/rt&gt;</after></leaf>
+			<leaf type="insert" title="rp" tooltip="inline"><before>&lt;rp&gt;</before><after>&lt;/rp&gt;</after></leaf>
+			<leaf type="insert" title="data" tooltip="inline"><before>&lt;data&gt;</before><after>&lt;/data&gt;</after></leaf>
+			<leaf type="insert" title="time" tooltip="inline"><before>&lt;time&gt;</before><after>&lt;/time&gt;</after></leaf>
+			<leaf type="insert" title="code" tooltip="inline"><before>&lt;code&gt;</before><after>&lt;/code&gt;</after></leaf>
+			<leaf type="insert" title="var" tooltip="inline"><before>&lt;var&gt;</before><after>&lt;/var&gt;</after></leaf>
+			<leaf type="insert" title="samp" tooltip="inline"><before>&lt;samp&gt;</before><after>&lt;/samp&gt;</after></leaf>
+			<leaf type="insert" title="kbd" tooltip="inline"><before>&lt;kbd&gt;</before><after>&lt;/kbd&gt;</after></leaf>
+			<leaf type="insert" title="sub" tooltip="inline"><before>&lt;sub&gt;</before><after>&lt;/sub&gt;</after></leaf>
+			<leaf type="insert" title="sup" tooltip="inline"><before>&lt;sup&gt;</before><after>&lt;/sup&gt;</after></leaf>
+			<leaf type="insert" title="i" tooltip="inline"><before>&lt;i&gt;</before><after>&lt;/i&gt;</after></leaf>
+			<leaf type="insert" title="b" tooltip="inline"><before>&lt;b&gt;</before><after>&lt;/b&gt;</after></leaf>
+			<leaf type="insert" title="u" tooltip="inline"><before>&lt;u&gt;</before><after>&lt;/u&gt;</after></leaf>
+			<leaf type="insert" title="mark" tooltip="inline"><before>&lt;mark&gt;</before><after>&lt;/mark&gt;</after></leaf>
+			<leaf type="insert" title="bdi" tooltip="inline"><before>&lt;bdi&gt;</before><after>&lt;/bdi&gt;</after></leaf>
+			<leaf type="insert" title="bdo" tooltip="inline"><before>&lt;bdo&gt;</before><after>&lt;/bdo&gt;</after></leaf>
+			<leaf type="insert" title="span" tooltip="inline"><before>&lt;span&gt;</before><after>&lt;/span&gt;</after></leaf>
+			<leaf type="insert" title="br" tooltip="selfclosing inline"><before>&lt;br&gt;</before><after>&lt;/br&gt;</after></leaf>
+			<leaf type="insert" title="wbr" tooltip="experimental inline"><before>&lt;wbr&gt;</before><after>&lt;/wbr&gt;</after></leaf>
+		</branch>
+		<branch title="Edits">
+			<leaf type="insert" title="ins" tooltip="inline"><before>&lt;ins&gt;</before><after>&lt;/ins&gt;</after></leaf>
+			<leaf type="insert" title="del" tooltip="inline"><before>&lt;del&gt;</before><after>&lt;/del&gt;</after></leaf>
+		</branch>
+		<branch title="Embedded content">
+			<leaf type="insert" title="picture" tooltip="experimental"><before>&lt;picture&gt;</before><after>&lt;/picture&gt;</after></leaf>
+			<leaf type="insert" title="source" tooltip="selfclosing"><before>&lt;source&gt;</before><after>&lt;/source&gt;</after></leaf>
+			<leaf type="insert" title="img" tooltip="selfclosing inline"><before>&lt;img&gt;</before><after>&lt;/img&gt;</after></leaf>
+			<leaf type="insert" title="iframe" tooltip="block"><before>&lt;iframe&gt;</before><after>&lt;/iframe&gt;</after></leaf>
+			<leaf type="insert" title="embed" tooltip="selfclosing block"><before>&lt;embed&gt;</before><after>&lt;/embed&gt;</after></leaf>
+			<leaf type="insert" title="object" tooltip="block"><before>&lt;object&gt;</before><after>&lt;/object&gt;</after></leaf>
+			<leaf type="insert" title="param" tooltip="selfclosing"><before>&lt;param&gt;</before><after>&lt;/param&gt;</after></leaf>
+			<leaf type="insert" title="video" tooltip="block"><before>&lt;video&gt;</before><after>&lt;/video&gt;</after></leaf>
+			<leaf type="insert" title="audio" tooltip="block"><before>&lt;audio&gt;</before><after>&lt;/audio&gt;</after></leaf>
+			<leaf type="insert" title="track" tooltip="selfclosing"><before>&lt;track&gt;</before><after>&lt;/track&gt;</after></leaf>
+			<leaf type="insert" title="map" tooltip="block"><before>&lt;map&gt;</before><after>&lt;/map&gt;</after></leaf>
+			<leaf type="insert" title="area" tooltip="inline"><before>&lt;area&gt;</before><after>&lt;/area&gt;</after></leaf>
+		</branch>
+		<branch title="Tabular data">
+			<leaf type="insert" title="table" tooltip="block"><before>&lt;table&gt;</before><after>&lt;/table&gt;</after></leaf>
+			<leaf type="insert" title="caption" tooltip="block"><before>&lt;caption&gt;</before><after>&lt;/caption&gt;</after></leaf>
+			<leaf type="insert" title="colgroup" tooltip="block"><before>&lt;colgroup&gt;</before><after>&lt;/colgroup&gt;</after></leaf>
+			<leaf type="insert" title="col" tooltip="selfclosing inline"><before>&lt;col&gt;</before><after>&lt;/col&gt;</after></leaf>
+			<leaf type="insert" title="tbody" tooltip="block"><before>&lt;tbody&gt;</before><after>&lt;/tbody&gt;</after></leaf>
+			<leaf type="insert" title="thead" tooltip="block"><before>&lt;thead&gt;</before><after>&lt;/thead&gt;</after></leaf>
+			<leaf type="insert" title="tfoot" tooltip="block"><before>&lt;tfoot&gt;</before><after>&lt;/tfoot&gt;</after></leaf>
+			<leaf type="insert" title="tr" tooltip="finder-item"><before>&lt;tr&gt;</before><after>&lt;/tr&gt;</after></leaf>
+			<leaf type="insert" title="td" tooltip="finder-item"><before>&lt;td&gt;</before><after>&lt;/td&gt;</after></leaf>
+			<leaf type="insert" title="th" tooltip="finder-item"><before>&lt;th&gt;</before><after>&lt;/th&gt;</after></leaf>
+		</branch>
+		<branch title="Forms">
+			<leaf type="insert" title="form" tooltip="block"><before>&lt;form&gt;</before><after>&lt;/form&gt;</after></leaf>
+			<leaf type="insert" title="label" tooltip="inline"><before>&lt;label&gt;</before><after>&lt;/label&gt;</after></leaf>
+			<leaf type="insert" title="input" tooltip="selfclosing inline"><before>&lt;input&gt;</before><after>&lt;/input&gt;</after></leaf>
+			<leaf type="insert" title="button" tooltip="inline"><before>&lt;button&gt;</before><after>&lt;/button&gt;</after></leaf>
+			<leaf type="insert" title="select" tooltip="block"><before>&lt;select&gt;</before><after>&lt;/select&gt;</after></leaf>
+			<leaf type="insert" title="datalist" tooltip="block"><before>&lt;datalist&gt;</before><after>&lt;/datalist&gt;</after></leaf>
+			<leaf type="insert" title="optgroup" tooltip="block"><before>&lt;optgroup&gt;</before><after>&lt;/optgroup&gt;</after></leaf>
+			<leaf type="insert" title="option" tooltip="finder-item"><before>&lt;option&gt;</before><after>&lt;/option&gt;</after></leaf>
+			<leaf type="insert" title="textarea" tooltip="inline"><before>&lt;textarea&gt;</before><after>&lt;/textarea&gt;</after></leaf>
+			<leaf type="insert" title="output" tooltip="inline"><before>&lt;output&gt;</before><after>&lt;/output&gt;</after></leaf>
+			<leaf type="insert" title="progress" tooltip="block"><before>&lt;progress&gt;</before><after>&lt;/progress&gt;</after></leaf>
+			<leaf type="insert" title="meter" tooltip="block"><before>&lt;meter&gt;</before><after>&lt;/meter&gt;</after></leaf>
+			<leaf type="insert" title="fieldset" tooltip="block"><before>&lt;fieldset&gt;</before><after>&lt;/fieldset&gt;</after></leaf>
+			<leaf type="insert" title="legend" tooltip="block"><before>&lt;legend&gt;</before><after>&lt;/legend&gt;</after></leaf>
+		</branch>
+		<branch title="Interactive elements">
+			<leaf type="insert" title="details" tooltip="block"><before>&lt;details&gt;</before><after>&lt;/details&gt;</after></leaf>
+			<leaf type="insert" title="summary" tooltip="block"><before>&lt;summary&gt;</before><after>&lt;/summary&gt;</after></leaf>
+			<leaf type="insert" title="dialog" tooltip="experimental block"><before>&lt;dialog&gt;</before><after>&lt;/dialog&gt;</after></leaf>
+		</branch>
+		<branch title="Scripting">
+			<leaf type="insert" title="script" tooltip="meta"><before>&lt;script&gt;</before><after>&lt;/script&gt;</after></leaf>
+			<leaf type="insert" title="noscript" tooltip="meta block"><before>&lt;noscript&gt;</before><after>&lt;/noscript&gt;</after></leaf>
+			<leaf type="insert" title="template" tooltip="experimental block"><before>&lt;template&gt;</before><after>&lt;/template&gt;</after></leaf>
+			<leaf type="insert" title="slot" tooltip="experimental inline"><before>&lt;slot&gt;</before><after>&lt;/slot&gt;</after></leaf>
+			<leaf type="insert" title="canvas" tooltip="block"><before>&lt;canvas&gt;</before><after>&lt;/canvas&gt;</after></leaf>
+		</branch>
+		</branch>
 </snippets>
