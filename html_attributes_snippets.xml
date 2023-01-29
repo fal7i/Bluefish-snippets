@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<snippets>
+<branch title="html attributes">
+<branch title="Global attribute">
+<leaf type="insert" title="accesskey" tooltip="Keyboard shortcut to activate or add focus to the element."><before> accesskey="</before><after>"</after></leaf>
+<leaf type="insert" title="autocapitalize" tooltip="Sets whether input is automatically capitalized when entered by user"><before> autocapitalize="</before><after>"</after></leaf>
+<leaf type="insert" title="class" tooltip="Often used with CSS to style elements with common properties."><before> class="</before><after>"</after></leaf>
+<leaf type="insert" title="contenteditable" tooltip="Indicates whether the element's content is editable."><before> contenteditable="</before><after>"</after></leaf>
+<leaf type="insert" title="contextmenu" tooltip="Defines the ID of a &lt;menu&gt; element which will serve as the element's context menu."><before> contextmenu="</before><after>"</after></leaf>
+<leaf type="insert" title="data-*" tooltip="Lets you attach custom attributes to an HTML element."><before> data-*="</before><after>"</after></leaf>
+<leaf type="insert" title="dir" tooltip="Defines the text direction. Allowed values are ltr (Left-To-Right) or rtl (Right-To-Left)"><before> dir="</before><after>"</after></leaf>
+<leaf type="insert" title="draggable" tooltip="Defines whether the element can be dragged."><before> draggable="</before><after>"</after></leaf>
+<leaf type="insert" title="hidden" tooltip="Prevents rendering of given element, while keeping child elements, e.g. script elements, active."><before> hidden="</before><after>"</after></leaf>
+<leaf type="insert" title="id" tooltip="Often used with CSS to style a specific element. The value of this attribute must be unique."><before> id="</before><after>"</after></leaf>
+<leaf type="insert" title="itemprop" tooltip=""><before> itemprop="</before><after>"</after></leaf>
+<leaf type="insert" title="lang" tooltip="Defines the language used in the element."><before> lang="</before><after>"</after></leaf>
+<leaf type="insert" title="role" tooltip="Defines an explicit role for an element for use by assistive technologies."><before> role="</before><after>"</after></leaf>
+<leaf type="insert" title="slot" tooltip="Assigns a slot in a shadow DOM shadow tree to an element."><before> slot="</before><after>"</after></leaf>
+<leaf type="insert" title="spellcheck" tooltip="Indicates whether spell checking is allowed for the element."><before> spellcheck="</before><after>"</after></leaf>
+<leaf type="insert" title="style" tooltip="Defines CSS styles which will override styles previously set."><before> style="</before><after>"</after></leaf>
+<leaf type="insert" title="tabindex" tooltip="Overrides the browser's default tab order and follows the one specified instead."><before> tabindex="</before><after>"</after></leaf>
+<leaf type="insert" title="title" tooltip="Text to be displayed in a tooltip when hovering over the element."><before> title="</before><after>"</after></leaf>
+<leaf type="insert" title="translate" tooltip="Specify whether an element's attribute values and the values of its Text node children are to be translated when the page is localized, or whether to leave them unchanged."><before> translate="</before><after>"</after></leaf>
+</branch>
+<branch title="other">
+<leaf type="insert" title="accept-charset" tooltip=" &lt;form&gt; List of supported charsets."><before> accept-charset="</before><after>"</after></leaf>
+<leaf type="insert" title="accept" tooltip=" &lt;form&gt;, &lt;input&gt; List of types the server accepts, typically a file type."><before> accept="</before><after>"</after></leaf>
+<leaf type="insert" title="action" tooltip=" &lt;form&gt; The URI of a program that processes the information submitted via the form."><before> action="</before><after>"</after></leaf>
+<leaf type="insert" title="align" tooltip=" &lt;applet&gt;, &lt;caption&gt;, &lt;col&gt;, &lt;colgroup&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;img&gt;, &lt;table&gt;, &lt;tbody&gt;, &lt;td&gt;, &lt;tfoot&gt;, &lt;th&gt;, &lt;thead&gt;, &lt;tr&gt; Specifies the horizontal alignment of the element."><before> align="</before><after>"</after></leaf>
+<leaf type="insert" title="allow" tooltip=" &lt;iframe&gt; Specifies a feature-policy for the iframe."><before> allow="</before><after>"</after></leaf>
+<leaf type="insert" title="alt" tooltip=" &lt;applet&gt;, &lt;area&gt;, &lt;img&gt;, &lt;input&gt; Alternative text in case an image can't be displayed."><before> alt="</before><after>"</after></leaf>
+<leaf type="insert" title="async" tooltip=" &lt;script&gt; Executes the script asynchronously."><before> async="</before><after>"</after></leaf>
+<leaf type="insert" title="autocomplete" tooltip=" &lt;form&gt;, &lt;input&gt;, &lt;select&gt;, &lt;textarea&gt; Indicates whether controls in this form can by default have their values automatically completed by the browser."><before> autocomplete="</before><after>"</after></leaf>
+<leaf type="insert" title="autofocus" tooltip=" &lt;button&gt;, &lt;input&gt;, &lt;keygen&gt;, &lt;select&gt;, &lt;textarea&gt; The element should be automatically focused after the page loaded."><before> autofocus="</before><after>"</after></leaf>
+<leaf type="insert" title="autoplay" tooltip=" &lt;audio&gt;, &lt;video&gt; The audio or video should play as soon as possible."><before> autoplay="</before><after>"</after></leaf>
+<leaf type="insert" title="background" tooltip=" &lt;body&gt;, &lt;table&gt;, &lt;td&gt;, &lt;th&gt; Specifies the URL of an image file. Note: Although browsers and email clients may still support this attribute, it is obsolete. Use CSS background-image instead."><before> background="</before><after>"</after></leaf>
+<leaf type="insert" title="bgcolor" tooltip=" &lt;body&gt;, &lt;col&gt;, &lt;colgroup&gt;, &lt;marquee&gt;, &lt;table&gt;, &lt;tbody&gt;, &lt;tfoot&gt;, &lt;td&gt;, &lt;th&gt;, &lt;tr&gt; Background color of the element. Note: This is a legacy attribute. Please use the CSS background-color property instead."><before> bgcolor="</before><after>"</after></leaf>
+<leaf type="insert" title="border" tooltip=" &lt;img&gt;, &lt;object&gt;, &lt;table&gt; The border width. Note: This is a legacy attribute. Please use the CSS border property instead."><before> border="</before><after>"</after></leaf>
+<leaf type="insert" title="buffered" tooltip=" &lt;audio&gt;, &lt;video&gt; Contains the time range of already buffered media."><before> buffered="</before><after>"</after></leaf>
+<leaf type="insert" title="capture" tooltip=" &lt;input&gt; From the Media Capture specification, specifies a new file can be captured."><before> capture="</before><after>"</after></leaf>
+<leaf type="insert" title="challenge" tooltip=" &lt;keygen&gt; A challenge string that is submitted along with the public key."><before> challenge="</before><after>"</after></leaf>
+<leaf type="insert" title="charset" tooltip=" &lt;meta&gt;, &lt;script&gt; Declares the character encoding of the page or script."><before> charset="</before><after>"</after></leaf>
+<leaf type="insert" title="checked" tooltip=" &lt;input&gt; Indicates whether the element should be checked on page load."><before> checked="</before><after>"</after></leaf>
+<leaf type="insert" title="cite" tooltip=" &lt;blockquote&gt;, &lt;del&gt;, &lt;ins&gt;, &lt;q&gt; Contains a URI which points to the source of the quote or change."><before> cite="</before><after>"</after></leaf>
+<leaf type="insert" title="codebase" tooltip=" &lt;applet&gt; This attribute gives the absolute or relative URL of the directory where applets' .class files referenced by the code attribute are stored."><before> codebase="</before><after>"</after></leaf>
+<leaf type="insert" title="code" tooltip=" &lt;applet&gt; Specifies the URL of the applet's class file to be loaded and executed."><before> code="</before><after>"</after></leaf>
+<leaf type="insert" title="color" tooltip=" &lt;font&gt;, &lt;hr&gt; This attribute sets the text color using either a named color or a color specified in the hexadecimal #RRGGBB format. Note: This is a legacy attribute. Please use the CSS color property instead."><before> color="</before><after>"</after></leaf>
+<leaf type="insert" title="colspan" tooltip=" &lt;td&gt;, &lt;th&gt; The colspan attribute defines the number of columns a cell should span."><before> colspan="</before><after>"</after></leaf>
+<leaf type="insert" title="cols" tooltip=" &lt;textarea&gt; Defines the number of columns in a textarea."><before> cols="</before><after>"</after></leaf>
+<leaf type="insert" title="content" tooltip=" &lt;meta&gt; A value associated with http-equiv or name depending on the context."><before> content="</before><after>"</after></leaf>
+<leaf type="insert" title="controls" tooltip=" &lt;audio&gt;, &lt;video&gt; Indicates whether the browser should show playback controls to the user."><before> controls="</before><after>"</after></leaf>
+<leaf type="insert" title="coords" tooltip=" &lt;area&gt; A set of values specifying the coordinates of the hot-spot region."><before> coords="</before><after>"</after></leaf>
+<leaf type="insert" title="crossorigin" tooltip=" &lt;audio&gt;, &lt;img&gt;, &lt;link&gt;, &lt;script&gt;, &lt;video&gt; How the element handles cross-origin requests"><before> crossorigin="</before><after>"</after></leaf>
+<leaf type="insert" title="csp" tooltip=" Experimental &lt;iframe&gt; Specifies the Content Security Policy that an embedded document must agree to enforce upon itself."><before> csp="</before><after>"</after></leaf>
+<leaf type="insert" title="data" tooltip=" &lt;object&gt; Specifies the URL of the resource."><before> data="</before><after>"</after></leaf>
+<leaf type="insert" title="datetime" tooltip=" &lt;del&gt;, &lt;ins&gt;, &lt;time&gt; Indicates the date and time associated with the element."><before> datetime="</before><after>"</after></leaf>
+<leaf type="insert" title="decoding" tooltip=" &lt;img&gt; Indicates the preferred method to decode the image."><before> decoding="</before><after>"</after></leaf>
+<leaf type="insert" title="default" tooltip=" &lt;track&gt; Indicates that the track should be enabled unless the user's preferences indicate something different."><before> default="</before><after>"</after></leaf>
+<leaf type="insert" title="defer" tooltip=" &lt;script&gt; Indicates that the script should be executed after the page has been parsed."><before> defer="</before><after>"</after></leaf>
+<leaf type="insert" title="dirname" tooltip=" &lt;input&gt;, &lt;textarea&gt; "><before> dirname="</before><after>"</after></leaf>
+<leaf type="insert" title="disabled" tooltip=" &lt;button&gt;, &lt;fieldset&gt;, &lt;input&gt;, &lt;keygen&gt;, &lt;optgroup&gt;, &lt;option&gt;, &lt;select&gt;, &lt;textarea&gt; Indicates whether the user can interact with the element."><before> disabled="</before><after>"</after></leaf>
+<leaf type="insert" title="download" tooltip=" &lt;a&gt;, &lt;area&gt; Indicates that the hyperlink is to be used for downloading a resource."><before> download="</before><after>"</after></leaf>
+<leaf type="insert" title="enctype" tooltip=" &lt;form&gt; Defines the content type of the form data when the method is POST."><before> enctype="</before><after>"</after></leaf>
+<leaf type="insert" title="enterkeyhint" tooltip=" Experimental &lt;textarea&gt;, contenteditable The enterkeyhint specifies what action label (or icon) to present for the enter key on virtual keyboards. The attribute can be used with form controls (such as the value of textarea elements), or in elements in an editing host (e.g., using contenteditable attribute)."><before> enterkeyhint="</before><after>"</after></leaf>
+<leaf type="insert" title="formaction" tooltip=" &lt;input&gt;, &lt;button&gt; Indicates the action of the element, overriding the action defined in the &lt;form&gt;."><before> formaction="</before><after>"</after></leaf>
+<leaf type="insert" title="formenctype" tooltip=" &lt;button&gt;, &lt;input&gt; If the button/input is a submit button (type=´submit´), this attribute sets the encoding type to use during form submission. If this attribute is specified, it overrides the enctype attribute of the button's form owner."><before> formenctype="</before><after>"</after></leaf>
+<leaf type="insert" title="formmethod" tooltip=" &lt;button&gt;, &lt;input&gt; If the button/input is a submit button (type=´submit´), this attribute sets the submission method to use during form submission (GET, POST, etc.). If this attribute is specified, it overrides the method attribute of the button's form owner."><before> formmethod="</before><after>"</after></leaf>
+<leaf type="insert" title="formnovalidate" tooltip=" &lt;button&gt;, &lt;input&gt; If the button/input is a submit button (type=´submit´), this boolean attribute specifies that the form is not to be validated when it is submitted. If this attribute is specified, it overrides the novalidate attribute of the button's form owner."><before> formnovalidate="</before><after>"</after></leaf>
+<leaf type="insert" title="formtarget" tooltip=" &lt;button&gt;, &lt;input&gt; If the button/input is a submit button (type=´submit´), this attribute specifies the browsing context (for example, tab, window, or inline frame) in which to display the response that is received after submitting the form. If this attribute is specified, it overrides the target attribute of the button's form owner."><before> formtarget="</before><after>"</after></leaf>
+<leaf type="insert" title="form" tooltip=" &lt;button&gt;, &lt;fieldset&gt;, &lt;input&gt;, &lt;keygen&gt;, &lt;label&gt;, &lt;meter&gt;, &lt;object&gt;, &lt;output&gt;, &lt;progress&gt;, &lt;select&gt;, &lt;textarea&gt; Indicates the form that is the owner of the element."><before> form="</before><after>"</after></leaf>
+<leaf type="insert" title="for" tooltip=" &lt;label&gt;, &lt;output&gt; Describes elements which belongs to this one."><before> for="</before><after>"</after></leaf>
+<leaf type="insert" title="headers" tooltip=" &lt;td&gt;, &lt;th&gt; IDs of the &lt;th&gt; elements which applies to this element."><before> headers="</before><after>"</after></leaf>
+<leaf type="insert" title="height" tooltip=" &lt;canvas&gt;, &lt;embed&gt;, &lt;iframe&gt;, &lt;img&gt;, &lt;input&gt;, &lt;object&gt;, &lt;video&gt; Specifies the height of elements listed here. For all other elements, use the CSS height property. Note: In some instances, such as &lt;div&gt;, this is a legacy attribute, in which case the CSS height property should be used instead."><before> height="</before><after>"</after></leaf>
+<leaf type="insert" title="high" tooltip=" &lt;meter&gt; Indicates the lower bound of the upper range."><before> high="</before><after>"</after></leaf>
+<leaf type="insert" title="hreflang" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;link&gt; Specifies the language of the linked resource."><before> hreflang="</before><after>"</after></leaf>
+<leaf type="insert" title="href" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;base&gt;, &lt;link&gt; The URL of a linked resource."><before> href="</before><after>"</after></leaf>
+<leaf type="insert" title="http-equiv" tooltip=" &lt;meta&gt; Defines a pragma directive."><before> http-equiv="</before><after>"</after></leaf>
+<leaf type="insert" title="importance" tooltip=" Experimental &lt;iframe&gt;, &lt;img&gt;, &lt;link&gt;, &lt;script&gt; Indicates the relative fetch priority for the resource."><before> importance="</before><after>"</after></leaf>
+<leaf type="insert" title="inputmode" tooltip=" &lt;textarea&gt;, contenteditable Provides a hint as to the type of data that might be entered by the user while editing the element or its contents. The attribute can be used with form controls (such as the value of textarea elements), or in elements in an editing host (e.g., using contenteditable attribute)."><before> inputmode="</before><after>"</after></leaf>
+<leaf type="insert" title="integrity" tooltip=" &lt;link&gt;, &lt;script&gt; Specifies a Subresource Integrity value that allows browsers to verify what they fetch."><before> integrity="</before><after>"</after></leaf>
+<leaf type="insert" title="intrinsicsize" tooltip=" Deprecated &lt;img&gt; This attribute tells the browser to ignore the actual intrinsic size of the image and pretend it's the size specified in the attribute."><before> intrinsicsize="</before><after>"</after></leaf>
+<leaf type="insert" title="ismap" tooltip=" &lt;img&gt; Indicates that the image is part of a server-side image map."><before> ismap="</before><after>"</after></leaf>
+<leaf type="insert" title="keytype" tooltip=" &lt;keygen&gt; Specifies the type of key generated."><before> keytype="</before><after>"</after></leaf>
+<leaf type="insert" title="kind" tooltip=" &lt;track&gt; Specifies the kind of text track."><before> kind="</before><after>"</after></leaf>
+<leaf type="insert" title="label" tooltip=" &lt;optgroup&gt;, &lt;option&gt;, &lt;track&gt; Specifies a user-readable title of the element."><before> label="</before><after>"</after></leaf>
+<leaf type="insert" title="language" tooltip=" Deprecated &lt;script&gt; Defines the script language used in the element."><before> language="</before><after>"</after></leaf>
+<leaf type="insert" title="list" tooltip=" &lt;input&gt; Identifies a list of pre-defined options to suggest to the user."><before> list="</before><after>"</after></leaf>
+<leaf type="insert" title="loading" tooltip=" Experimental &lt;img&gt;, &lt;iframe&gt; Indicates if the element should be loaded lazily (loading=´lazy´) or loaded immediately (loading=´eager´)."><before> loading="</before><after>"</after></leaf>
+<leaf type="insert" title="loop" tooltip=" &lt;audio&gt;, &lt;bgsound&gt;, &lt;marquee&gt;, &lt;video&gt; Indicates whether the media should start playing from the start when it's finished."><before> loop="</before><after>"</after></leaf>
+<leaf type="insert" title="low" tooltip=" &lt;meter&gt; Indicates the upper bound of the lower range."><before> low="</before><after>"</after></leaf>
+<leaf type="insert" title="manifest" tooltip=" Deprecated &lt;html&gt; Specifies the URL of the document's cache manifest. Note: This attribute is obsolete, use &lt;link rel=´manifest´&gt; instead."><before> manifest="</before><after>"</after></leaf>
+<leaf type="insert" title="maxlength" tooltip=" &lt;input&gt;, &lt;textarea&gt; Defines the maximum number of characters allowed in the element."><before> maxlength="</before><after>"</after></leaf>
+<leaf type="insert" title="max" tooltip=" &lt;input&gt;, &lt;meter&gt;, &lt;progress&gt; Indicates the maximum value allowed."><before> max="</before><after>"</after></leaf>
+<leaf type="insert" title="media" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;link&gt;, &lt;source&gt;, &lt;style&gt; Specifies a hint of the media for which the linked resource was designed."><before> media="</before><after>"</after></leaf>
+<leaf type="insert" title="method" tooltip=" &lt;form&gt; Defines which HTTP method to use when submitting the form. Can be GET (default) or POST."><before> method="</before><after>"</after></leaf>
+<leaf type="insert" title="minlength" tooltip=" &lt;input&gt;, &lt;textarea&gt; Defines the minimum number of characters allowed in the element."><before> minlength="</before><after>"</after></leaf>
+<leaf type="insert" title="min" tooltip=" &lt;input&gt;, &lt;meter&gt; Indicates the minimum value allowed."><before> min="</before><after>"</after></leaf>
+<leaf type="insert" title="multiple" tooltip=" &lt;input&gt;, &lt;select&gt; Indicates whether multiple values can be entered in an input of the type email or file."><before> multiple="</before><after>"</after></leaf>
+<leaf type="insert" title="muted" tooltip=" &lt;audio&gt;, &lt;video&gt; Indicates whether the audio will be initially silenced on page load."><before> muted="</before><after>"</after></leaf>
+<leaf type="insert" title="name" tooltip=" &lt;button&gt;, &lt;form&gt;, &lt;fieldset&gt;, &lt;iframe&gt;, &lt;input&gt;, &lt;keygen&gt;, &lt;object&gt;, &lt;output&gt;, &lt;select&gt;, &lt;textarea&gt;, &lt;map&gt;, &lt;meta&gt;, &lt;param&gt; Name of the element. For example used by the server to identify the fields in form submits."><before> name="</before><after>"</after></leaf>
+<leaf type="insert" title="novalidate" tooltip=" &lt;form&gt; This attribute indicates that the form shouldn't be validated when submitted."><before> novalidate="</before><after>"</after></leaf>
+<leaf type="insert" title="open" tooltip=" &lt;details&gt;, &lt;dialog&gt; Indicates whether the contents are currently visible (in the case of a &lt;details&gt; element) or whether the dialog is active and can be interacted with (in the case of a &lt;dialog&gt; element)."><before> open="</before><after>"</after></leaf>
+<leaf type="insert" title="optimum" tooltip=" &lt;meter&gt; Indicates the optimal numeric value."><before> optimum="</before><after>"</after></leaf>
+<leaf type="insert" title="pattern" tooltip=" &lt;input&gt; Defines a regular expression which the element's value will be validated against."><before> pattern="</before><after>"</after></leaf>
+<leaf type="insert" title="ping" tooltip=" &lt;a&gt;, &lt;area&gt; The ping attribute specifies a space-separated list of URLs to be notified if a user follows the hyperlink."><before> ping="</before><after>"</after></leaf>
+<leaf type="insert" title="placeholder" tooltip=" &lt;input&gt;, &lt;textarea&gt; Provides a hint to the user of what can be entered in the field."><before> placeholder="</before><after>"</after></leaf>
+<leaf type="insert" title="playsinline" tooltip=" &lt;video&gt; A Boolean attribute indicating that the video is to be played ´inline´; that is, within the element's playback area. Note that the absence of this attribute does not imply that the video will always be played in fullscreen."><before> playsinline="</before><after>"</after></leaf>
+<leaf type="insert" title="poster" tooltip=" &lt;video&gt; A URL indicating a poster frame to show until the user plays or seeks."><before> poster="</before><after>"</after></leaf>
+<leaf type="insert" title="preload" tooltip=" &lt;audio&gt;, &lt;video&gt; Indicates whether the whole resource, parts of it or nothing should be preloaded."><before> preload="</before><after>"</after></leaf>
+<leaf type="insert" title="readonly" tooltip=" &lt;input&gt;, &lt;textarea&gt; Indicates whether the element can be edited."><before> readonly="</before><after>"</after></leaf>
+<leaf type="insert" title="referrerpolicy" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;iframe&gt;, &lt;img&gt;, &lt;link&gt;, &lt;script&gt; Specifies which referrer is sent when fetching the resource."><before> referrerpolicy="</before><after>"</after></leaf>
+<leaf type="insert" title="rel" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;link&gt; Specifies the relationship of the target object to the link object."><before> rel="</before><after>"</after></leaf>
+<leaf type="insert" title="required" tooltip=" &lt;input&gt;, &lt;select&gt;, &lt;textarea&gt; Indicates whether this element is required to fill out or not."><before> required="</before><after>"</after></leaf>
+<leaf type="insert" title="reversed" tooltip=" &lt;ol&gt; Indicates whether the list should be displayed in a descending order instead of an ascending order."><before> reversed="</before><after>"</after></leaf>
+<leaf type="insert" title="rowspan" tooltip=" &lt;td&gt;, &lt;th&gt; Defines the number of rows a table cell should span over."><before> rowspan="</before><after>"</after></leaf>
+<leaf type="insert" title="rows" tooltip=" &lt;textarea&gt; Defines the number of rows in a text area."><before> rows="</before><after>"</after></leaf>
+<leaf type="insert" title="sandbox" tooltip=" &lt;iframe&gt; Stops a document loaded in an iframe from using certain features (such as submitting forms or opening new windows)."><before> sandbox="</before><after>"</after></leaf>
+<leaf type="insert" title="scoped" tooltip=" Non-standard Deprecated &lt;style&gt; "><before> scoped="</before><after>"</after></leaf>
+<leaf type="insert" title="selected" tooltip=" &lt;option&gt; Defines a value which will be selected on page load."><before> selected="</before><after>"</after></leaf>
+<leaf type="insert" title="scope" tooltip=" &lt;th&gt; Defines the cells that the header test (defined in the th element) relates to."><before> scope="</before><after>"</after></leaf>
+<leaf type="insert" title="shape" tooltip=" &lt;a&gt;, &lt;area&gt; "><before> shape="</before><after>"</after></leaf>
+<leaf type="insert" title="size" tooltip=" &lt;input&gt;, &lt;select&gt; Defines the width of the element (in pixels). If the element's type attribute is text or password then it's the number of characters."><before> size="</before><after>"</after></leaf>
+<leaf type="insert" title="sizes" tooltip=" &lt;link&gt;, &lt;img&gt;, &lt;source&gt; "><before> sizes="</before><after>"</after></leaf>
+<leaf type="insert" title="span" tooltip=" &lt;col&gt;, &lt;colgroup&gt; "><before> span="</before><after>"</after></leaf>
+<leaf type="insert" title="srcdoc" tooltip=" &lt;iframe&gt; "><before> srcdoc="</before><after>"</after></leaf>
+<leaf type="insert" title="srclang" tooltip=" &lt;track&gt; "><before> srclang="</before><after>"</after></leaf>
+<leaf type="insert" title="srcset" tooltip=" &lt;img&gt;, &lt;source&gt; One or more responsive image candidates."><before> srcset="</before><after>"</after></leaf>
+<leaf type="insert" title="src" tooltip=" &lt;audio&gt;, &lt;embed&gt;, &lt;iframe&gt;, &lt;img&gt;, &lt;input&gt;, &lt;script&gt;, &lt;source&gt;, &lt;track&gt;, &lt;video&gt; The URL of the embeddable content."><before> src="</before><after>"</after></leaf>
+<leaf type="insert" title="start" tooltip=" &lt;ol&gt; Defines the first number if other than 1."><before> start="</before><after>"</after></leaf>
+<leaf type="insert" title="step" tooltip=" &lt;input&gt; "><before> step="</before><after>"</after></leaf>
+<leaf type="insert" title="summary" tooltip=" Deprecated &lt;table&gt; "><before> summary="</before><after>"</after></leaf>
+<leaf type="insert" title="target" tooltip=" &lt;a&gt;, &lt;area&gt;, &lt;base&gt;, &lt;form&gt; Specifies where to open the linked document (in the case of an &lt;a&gt; element) or where to display the response received (in the case of a &lt;form&gt; element)"><before> target="</before><after>"</after></leaf>
+<leaf type="insert" title="type" tooltip=" &lt;button&gt;, &lt;input&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;ol&gt;, &lt;script&gt;, &lt;source&gt;, &lt;style&gt;, &lt;menu&gt;, &lt;link&gt; Defines the type of the element."><before> type="</before><after>"</after></leaf>
+<leaf type="insert" title="usemap" tooltip=" &lt;img&gt;, &lt;input&gt;, &lt;object&gt; "><before> usemap="</before><after>"</after></leaf>
+<leaf type="insert" title="value" tooltip=" &lt;button&gt;, &lt;data&gt;, &lt;input&gt;, &lt;li&gt;, &lt;meter&gt;, &lt;option&gt;, &lt;progress&gt;, &lt;param&gt; Defines a default value which will be displayed in the element on page load."><before> value="</before><after>"</after></leaf>
+<leaf type="insert" title="width" tooltip=" &lt;canvas&gt;, &lt;embed&gt;, &lt;iframe&gt;, &lt;img&gt;, &lt;input&gt;, &lt;object&gt;, &lt;video&gt; For the elements listed here, this establishes the element's width. Note: For all other instances, such as &lt;div&gt;, this is a legacy attribute, in which case the CSS width property should be used instead."><before> width="</before><after>"</after></leaf>
+<leaf type="insert" title="wrap" tooltip=" &lt;textarea&gt; Indicates whether the text should be wrapped."><before> wrap="</before><after>"</after></leaf>
+</branch>
+<branch title="The event handler attributes">
+<leaf type="insert" title="onabort"><before> onabort="</before><after>"</after></leaf>
+<leaf type="insert" title="onautocomplete"><before> onautocomplete="</before><after>"</after></leaf>
+<leaf type="insert" title="onautocompleteerror"><before> onautocompleteerror="</before><after>"</after></leaf>
+<leaf type="insert" title="onblur"><before> onblur="</before><after>"</after></leaf>
+<leaf type="insert" title="oncancel"><before> oncancel="</before><after>"</after></leaf>
+<leaf type="insert" title="oncanplay"><before> oncanplay="</before><after>"</after></leaf>
+<leaf type="insert" title="oncanplaythrough"><before> oncanplaythrough="</before><after>"</after></leaf>
+<leaf type="insert" title="onchange"><before> onchange="</before><after>"</after></leaf>
+<leaf type="insert" title="onclick"><before> onclick="</before><after>"</after></leaf>
+<leaf type="insert" title="onclose"><before> onclose="</before><after>"</after></leaf>
+<leaf type="insert" title="oncontextmenu"><before> oncontextmenu="</before><after>"</after></leaf>
+<leaf type="insert" title="oncuechange"><before> oncuechange="</before><after>"</after></leaf>
+<leaf type="insert" title="ondblclick"><before> ondblclick="</before><after>"</after></leaf>
+<leaf type="insert" title="ondrag"><before> ondrag="</before><after>"</after></leaf>
+<leaf type="insert" title="ondragend"><before> ondragend="</before><after>"</after></leaf>
+<leaf type="insert" title="ondragenter"><before> ondragenter="</before><after>"</after></leaf>
+<leaf type="insert" title="ondragleave"><before> ondragleave="</before><after>"</after></leaf>
+<leaf type="insert" title="ondragover"><before> ondragover="</before><after>"</after></leaf>
+<leaf type="insert" title="ondragstart"><before> ondragstart="</before><after>"</after></leaf>
+<leaf type="insert" title="ondrop"><before> ondrop="</before><after>"</after></leaf>
+<leaf type="insert" title="ondurationchange"><before> ondurationchange="</before><after>"</after></leaf>
+<leaf type="insert" title="onemptied"><before> onemptied="</before><after>"</after></leaf>
+<leaf type="insert" title="onended"><before> onended="</before><after>"</after></leaf>
+<leaf type="insert" title="onerror"><before> onerror="</before><after>"</after></leaf>
+<leaf type="insert" title="onfocus"><before> onfocus="</before><after>"</after></leaf>
+<leaf type="insert" title="oninput"><before> oninput="</before><after>"</after></leaf>
+<leaf type="insert" title="oninvalid"><before> oninvalid="</before><after>"</after></leaf>
+<leaf type="insert" title="onkeydown"><before> onkeydown="</before><after>"</after></leaf>
+<leaf type="insert" title="onkeypress"><before> onkeypress="</before><after>"</after></leaf>
+<leaf type="insert" title="onkeyup"><before> onkeyup="</before><after>"</after></leaf>
+<leaf type="insert" title="onload"><before> onload="</before><after>"</after></leaf>
+<leaf type="insert" title="onloadeddata"><before> onloadeddata="</before><after>"</after></leaf>
+<leaf type="insert" title="onloadedmetadata"><before> onloadedmetadata="</before><after>"</after></leaf>
+<leaf type="insert" title="onloadstart"><before> onloadstart="</before><after>"</after></leaf>
+<leaf type="insert" title="onmousedown"><before> onmousedown="</before><after>"</after></leaf>
+<leaf type="insert" title="onmouseenter"><before> onmouseenter="</before><after>"</after></leaf>
+<leaf type="insert" title="onmouseleave"><before> onmouseleave="</before><after>"</after></leaf>
+<leaf type="insert" title="onmousemove"><before> onmousemove="</before><after>"</after></leaf>
+<leaf type="insert" title="onmouseout"><before> onmouseout="</before><after>"</after></leaf>
+<leaf type="insert" title="onmouseover"><before> onmouseover="</before><after>"</after></leaf>
+<leaf type="insert" title="onmouseup"><before> onmouseup="</before><after>"</after></leaf>
+<leaf type="insert" title="onmousewheel"><before> onmousewheel="</before><after>"</after></leaf>
+<leaf type="insert" title="onpause"><before> onpause="</before><after>"</after></leaf>
+<leaf type="insert" title="onplay"><before> onplay="</before><after>"</after></leaf>
+<leaf type="insert" title="onplaying"><before> onplaying="</before><after>"</after></leaf>
+<leaf type="insert" title="onprogress"><before> onprogress="</before><after>"</after></leaf>
+<leaf type="insert" title="onratechange"><before> onratechange="</before><after>"</after></leaf>
+<leaf type="insert" title="onreset"><before> onreset="</before><after>"</after></leaf>
+<leaf type="insert" title="onresize"><before> onresize="</before><after>"</after></leaf>
+<leaf type="insert" title="onscroll"><before> onscroll="</before><after>"</after></leaf>
+<leaf type="insert" title="onseeked"><before> onseeked="</before><after>"</after></leaf>
+<leaf type="insert" title="onseeking"><before> onseeking="</before><after>"</after></leaf>
+<leaf type="insert" title="onselect"><before> onselect="</before><after>"</after></leaf>
+<leaf type="insert" title="onshow"><before> onshow="</before><after>"</after></leaf>
+<leaf type="insert" title="onsort"><before> onsort="</before><after>"</after></leaf>
+<leaf type="insert" title="onstalled"><before> onstalled="</before><after>"</after></leaf>
+<leaf type="insert" title="onsubmit"><before> onsubmit="</before><after>"</after></leaf>
+<leaf type="insert" title="onsuspend"><before> onsuspend="</before><after>"</after></leaf>
+<leaf type="insert" title="ontimeupdate"><before> ontimeupdate="</before><after>"</after></leaf>
+<leaf type="insert" title="ontoggle"><before> ontoggle="</before><after>"</after></leaf>
+<leaf type="insert" title="onvolumechange"><before> onvolumechange="</before><after>"</after></leaf>
+<leaf type="insert" title="onwaiting"><before> onwaiting="</before><after>"</after></leaf>
+</branch>
+</branch>
+</snippets>
